@@ -1,0 +1,14 @@
+streamlit
+ipykernel
+langchain
+python-dotenv
+ipykernel
+langchain-community
+langchain-text-splitters
+sentence-transformers
+langchain-huggingface
+duckdb
+pandas
+langchain-groq
+numexpr
+huggingface-hub
